@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni71cicegoog/mtulliiciceroni71cicegoog_0212.png"; bbox 0 0 3642 5225; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 573 2413 1401 2465">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 573 2413 1401 2465">
+     <span class='ocr_line' id='line_1_1' title="bbox 573 2413 1401 2465; baseline 0.005 -12"><span class='ocrx_word' id='word_1_1' title='bbox 573 2420 645 2457; x_wconf 68' lang='lat' dir='ltr'>unm</span> <span class='ocrx_word' id='word_1_2' title='bbox 661 2428 703 2457; x_wconf 79' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_3' title='bbox 720 2416 827 2455; x_wconf 74' lang='lat' dir='ltr'>Fnodrich</span> <span class='ocrx_word' id='word_1_4' title='bbox 843 2416 941 2455; x_wconf 70' lang='lat' dir='ltr'>Andreas</span> <span class='ocrx_word' id='word_1_5' title='bbox 954 2416 1053 2463; x_wconf 73' lang='lat' dir='ltr'>Petthoa,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1068 2413 1303 2465; x_wconf 61' lang='lat' dir='ltr'>mummuli-churz.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1318 2413 1401 2457; x_wconf 62' lang='lat' dir='ltr'><strong>flotin.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1826 5225">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1826 5225">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1826 5225; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1826 5225; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
